@@ -1,0 +1,82 @@
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Course <init>
+FINE: Creating course
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Course <init>
+FINE: Creating course
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Course <init>
+FINE: Creating course
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Faculty <init>
+FINE: Creating faculty profile
+Mar 22, 2020 7:14:25 PM datamodels.Faculty <init>
+FINE: Creating faculty profile
+Mar 22, 2020 7:14:25 PM datamodels.Faculty <init>
+FINE: Creating faculty profile
+Mar 22, 2020 7:14:25 PM datamodels.Student <init>
+FINEST: Creating student profile
+Mar 22, 2020 7:14:25 PM datamodels.Student <init>
+FINEST: Creating student profile
+Mar 22, 2020 7:14:25 PM datamodels.Student <init>
+FINEST: Creating student profile
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Course <init>
+FINE: Creating course
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Course <init>
+FINE: Creating course
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Course <init>
+FINE: Creating course
+Mar 22, 2020 7:14:25 PM datamodels.Classroom <init>
+FINEST: Creating classroom
+Mar 22, 2020 7:14:25 PM datamodels.Faculty <init>
+FINE: Creating faculty profile
+Mar 22, 2020 7:14:25 PM datamodels.Faculty <init>
+FINE: Creating faculty profile
+Mar 22, 2020 7:14:25 PM datamodels.Faculty <init>
+FINE: Creating faculty profile
+Mar 22, 2020 7:14:25 PM datamodels.Student <init>
+FINEST: Creating student profile
+Mar 22, 2020 7:14:25 PM datamodels.Student <init>
+FINEST: Creating student profile
+Mar 22, 2020 7:14:25 PM datamodels.Student <init>
+FINEST: Creating student profile
+Mar 22, 2020 7:15:01 PM datamodels.Student <init>
+FINEST: Creating student profile
+Mar 22, 2020 7:15:01 PM controllers.InputStudentFormController getDate
+WARNING: Invalid date entered
+Mar 22, 2020 7:15:01 PM controllers.InputStudentFormController getDate
+INFO: Default date set
+Mar 22, 2020 7:15:02 PM controllers.InputStudentFormController getDate
+WARNING: Invalid date entered
+Mar 22, 2020 7:15:02 PM controllers.InputStudentFormController getDate
+INFO: Default date set
